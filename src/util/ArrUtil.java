@@ -9,6 +9,7 @@ public class ArrUtil {
     }
 
     public static int[] getInputArr(){
-        return new int[]{4, 6, 7, 5, 9, 3, 2};
+        //return new int[]{4, 6, 7, 5, 9, 3, 2};
+        return new int[]{3,3};
         }
 }
