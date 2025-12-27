@@ -1,0 +1,23 @@
+# add ignore rules to .gitignore
+cat >> .gitignore <<'EOF'
+# Java bytecode
+*.class
+
+# common build/output dirs
+/out/
+target/
+build/
+EOF
+
+# stop tracking .class files already in the repo (keeps them locally)
+git rm --cached -r *.class || true
+
+# optionally untrack common build/output directories
+git rm -r --cached out target build || true
+
+# commit the change
+#git add .gitignore
+#git commit -m "Ignore Java .class files and build/output directories"
+#
+## confirm ignored files
+#git status --ignored
