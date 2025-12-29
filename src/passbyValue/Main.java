@@ -1,6 +1,4 @@
-package other;
-
-
+package passbyValue;
 class Main {
     public static void main(String[] args)
     {

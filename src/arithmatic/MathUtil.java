@@ -1,6 +1,5 @@
 package arithmatic;
 
-import sorting.InsertionSort;
 import util.ArrUtil;
 
 public class MathUtil {

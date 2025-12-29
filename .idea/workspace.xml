@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb48ed25-8aa8-42e3-890b-19d12f4ce64b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reverse/Optimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse/ReverstNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/Mainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/Mainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/arithmatic/MathUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/arithmatic/MathUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/arrays/MergeTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/arrays/MergeTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/arrays/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/arrays/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/arrays/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/company/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/company/Excecutor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/company/Excecutor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/company/Excecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/company/Excecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/corejava/ExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/corejava/ExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/corejava/ExceptionHierarchy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/corejava/ExceptionHierarchy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/corejava/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/corejava/FinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/corejava/HashCodeEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/corejava/HashCodeEquals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/map/Driver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/map/Driver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/map/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/map/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/streams/Excecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/streams/Excecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewbit/util/ArrUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/util/ArrUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/Swift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Swift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arithmatic/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arithmatic/MathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/MergeTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MergeTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/Merger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Merger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/builder/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/Axis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/Axis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/BankFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/BankFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/HDFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/HDFC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/TestPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Etv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Etv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/NewsAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/NewsAgency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/MethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/MethodRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/StuName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/StuName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/json/JsonMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/JsonMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/json/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passbyValue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passbyValue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passbyValue/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passbyValue/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymarphism/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymarphism/MethodOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymarphism/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymarphism/MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/Optimals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/ReverstNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/Excecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Excecutor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37KcQJsXfQNltcOsuh5lxjSclud" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MathUtil.executor": "Run",
+    "Application.ReverseAStr.executor": "Run",
+    "Application.StringUtils.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/akshaykumar/Documents/codebasev1/interviewbit",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StringUtils">
+    <configuration name="MathUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmatic.MathUtil" />
+      <module name="interviewbit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmatic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse.StringUtils" />
+      <module name="interviewbit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringUtils" />
+        <item itemvalue="Application.MathUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb48ed25-8aa8-42e3-890b-19d12f4ce64b" name="Changes" comment="" />
+      <created>1766655185668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766655185668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

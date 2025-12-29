@@ -1,2 +1,6 @@
-package designpatterns.factory;public interface Bank {
+package designpatterns.factory;
+
+public interface Bank {
+    public int getInterest();
+    public String getName();
 }

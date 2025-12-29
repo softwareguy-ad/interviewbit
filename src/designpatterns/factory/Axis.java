@@ -1,13 +1,13 @@
 package designpatterns.factory;
 
-public class HDFC implements Bank{
+public class Axis implements Bank{
     @Override
     public int getInterest() {
-        return 10;
+        return 9;
     }
 
     @Override
     public String getName() {
-        return HDFC.class.getName();
+        return Axis.class.getName();
     }
 }
