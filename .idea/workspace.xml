@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb48ed25-8aa8-42e3-890b-19d12f4ce64b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reverse/Optimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse/ReverstNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/Mainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/Mainer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/arithmatic/MathUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/arithmatic/MathUtil.class" afterDir="false" />
@@ -38,40 +29,13 @@
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/sorting/SelectionSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/streams/Excecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/streams/Excecutor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/interviewbit/util/ArrUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewbit/util/ArrUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/Swift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Swift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arithmatic/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arithmatic/MathUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/MergeTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MergeTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/Merger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Merger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/builder/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/Axis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/Axis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/BankFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/BankFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/HDFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/HDFC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/factory/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/factory/TestPatterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Channel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Etv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Etv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/NewsAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/NewsAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/observer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/MethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/MethodRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/StuName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/StuName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corejava/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/ExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/json/JsonMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/JsonMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/json/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passbyValue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passbyValue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passbyValue/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passbyValue/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymarphism/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymarphism/MethodOverload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymarphism/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymarphism/MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Optimals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/ReverstNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Excecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Excecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverse/Optimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverse/Optimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverse/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverse/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverse/ReverstNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverse/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BSTNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +62,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearchTree.executor": "Debug",
     "Application.MathUtil.executor": "Run",
     "Application.ReverseAStr.executor": "Run",
     "Application.StringUtils.executor": "Run",
@@ -113,10 +78,23 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringUtils">
+  <component name="RunManager" selected="Application.BinarySearchTree">
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTree" />
+      <module name="interviewbit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MathUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arithmatic.MathUtil" />
       <module name="interviewbit" />
@@ -145,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTree" />
         <item itemvalue="Application.StringUtils" />
         <item itemvalue="Application.MathUtil" />
       </list>

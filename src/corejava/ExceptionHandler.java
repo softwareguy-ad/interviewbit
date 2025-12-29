@@ -1,7 +1,5 @@
 package corejava;
 
-import java.util.Base64;
-
 public class ExceptionHandler {
    /* public static void main(String[] args) {
        // System.out.println("value is " + callthis());;
@@ -13,8 +11,5 @@ public class ExceptionHandler {
             //int i = 19/0;
             String s = null;
             System.out.println("length is "+s.length());
-
-
-
     }
 }

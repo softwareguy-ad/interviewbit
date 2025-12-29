@@ -38,7 +38,7 @@ public class Student {
         this.address = address;
     }
 
-    static class Address{
+    static class Address {
         private int flatno;
 
         private String city;
