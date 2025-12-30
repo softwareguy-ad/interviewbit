@@ -9,7 +9,6 @@ public class MethodOverload {
         System.out.println("b method invoked");
     }
 
-    // void sum(long a,int b){System.out.println("b method invoked");}
 
     public static void main(String args[]) {
         MethodOverload obj = new MethodOverload();
